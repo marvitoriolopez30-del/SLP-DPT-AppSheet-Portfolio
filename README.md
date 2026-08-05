@@ -124,6 +124,5 @@ This repository showcases the application's functionality through documentation,
 
 GitHub: https://github.com/Marvintorio
 
-LinkedIn: *(Add your LinkedIn profile)*
-
-Email: *(Add your email address)*
+LinkedIn: https://www.linkedin.com/in/marlon-torio-a0810536b/
+Email: Marvitoriolopez30@gmail.com
